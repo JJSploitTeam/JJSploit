@@ -46,7 +46,7 @@ We actively encourage contributions from the Roblox community to help us improve
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Feel free to reach out to us on [Discord](https://discord.gg/jjsploit) for any questions or support related to JJSploit. Thank you for choosing JJSploit for your Roblox gaming needs! 🚀✨
+Feel free to reach out to us on [Discord](https://discord.gg/jjsploit) for any questions or support related to JJSploit. Thank you for choosing JJSploit for your Roblox gaming needs! 🚀
 
 
 ## Tags
